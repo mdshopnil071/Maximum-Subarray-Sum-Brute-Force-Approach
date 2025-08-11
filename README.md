@@ -1,5 +1,5 @@
 # Maximum-Subarray-Sum-Brute-Force-Approach
-Today I learn this java programme and I would gladly share this code. This Java program implements a brute force solution to find the maximum sum of all possible contiguous subarrays in a given array. The program uses three nested loops to generate all possible subarrays and calculates their sums.
+Today I learn this java programme and I would love to gladly share the code. This Java program implements a brute force solution to find the maximum sum of all possible contiguous subarrays in a given array. The program uses three nested loops to generate all possible subarrays and calculates their sums.
 
 Algorithm Description:
 The algorithm works by:
